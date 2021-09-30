@@ -1,0 +1,15 @@
+C:\Revature\Rexjames23-code\VB.net-code\PhonebookApp\bin\Debug\net6.0\PhoneBookApp.exe
+C:\Revature\Rexjames23-code\VB.net-code\PhonebookApp\bin\Debug\net6.0\PhoneBookApp.deps.json
+C:\Revature\Rexjames23-code\VB.net-code\PhonebookApp\bin\Debug\net6.0\PhoneBookApp.runtimeconfig.json
+C:\Revature\Rexjames23-code\VB.net-code\PhonebookApp\bin\Debug\net6.0\PhoneBookApp.dll
+C:\Revature\Rexjames23-code\VB.net-code\PhonebookApp\bin\Debug\net6.0\ref\PhoneBookApp.dll
+C:\Revature\Rexjames23-code\VB.net-code\PhonebookApp\bin\Debug\net6.0\PhoneBookApp.pdb
+C:\Revature\Rexjames23-code\VB.net-code\PhonebookApp\obj\Debug\net6.0\PhoneBookApp.vbproj.AssemblyReference.cache
+C:\Revature\Rexjames23-code\VB.net-code\PhonebookApp\obj\Debug\net6.0\PhoneBookApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature\Rexjames23-code\VB.net-code\PhonebookApp\obj\Debug\net6.0\PhoneBookApp.AssemblyInfoInputs.cache
+C:\Revature\Rexjames23-code\VB.net-code\PhonebookApp\obj\Debug\net6.0\PhoneBookApp.AssemblyInfo.vb
+C:\Revature\Rexjames23-code\VB.net-code\PhonebookApp\obj\Debug\net6.0\PhoneBookApp.vbproj.CoreCompileInputs.cache
+C:\Revature\Rexjames23-code\VB.net-code\PhonebookApp\obj\Debug\net6.0\PhoneBookApp.dll
+C:\Revature\Rexjames23-code\VB.net-code\PhonebookApp\obj\Debug\net6.0\ref\PhoneBookApp.dll
+C:\Revature\Rexjames23-code\VB.net-code\PhonebookApp\obj\Debug\net6.0\PhoneBookApp.pdb
+C:\Revature\Rexjames23-code\VB.net-code\PhonebookApp\obj\Debug\net6.0\PhoneBookApp.genruntimeconfig.cache
