@@ -1,0 +1,15 @@
+C:\Revature\Rexjames23-code\VB.net-code(Week1)\arrayStuff\bin\Debug\net6.0\arrayStuff.exe
+C:\Revature\Rexjames23-code\VB.net-code(Week1)\arrayStuff\bin\Debug\net6.0\arrayStuff.deps.json
+C:\Revature\Rexjames23-code\VB.net-code(Week1)\arrayStuff\bin\Debug\net6.0\arrayStuff.runtimeconfig.json
+C:\Revature\Rexjames23-code\VB.net-code(Week1)\arrayStuff\bin\Debug\net6.0\arrayStuff.dll
+C:\Revature\Rexjames23-code\VB.net-code(Week1)\arrayStuff\bin\Debug\net6.0\ref\arrayStuff.dll
+C:\Revature\Rexjames23-code\VB.net-code(Week1)\arrayStuff\bin\Debug\net6.0\arrayStuff.pdb
+C:\Revature\Rexjames23-code\VB.net-code(Week1)\arrayStuff\obj\Debug\net6.0\arrayStuff.vbproj.AssemblyReference.cache
+C:\Revature\Rexjames23-code\VB.net-code(Week1)\arrayStuff\obj\Debug\net6.0\arrayStuff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature\Rexjames23-code\VB.net-code(Week1)\arrayStuff\obj\Debug\net6.0\arrayStuff.AssemblyInfoInputs.cache
+C:\Revature\Rexjames23-code\VB.net-code(Week1)\arrayStuff\obj\Debug\net6.0\arrayStuff.AssemblyInfo.vb
+C:\Revature\Rexjames23-code\VB.net-code(Week1)\arrayStuff\obj\Debug\net6.0\arrayStuff.vbproj.CoreCompileInputs.cache
+C:\Revature\Rexjames23-code\VB.net-code(Week1)\arrayStuff\obj\Debug\net6.0\arrayStuff.dll
+C:\Revature\Rexjames23-code\VB.net-code(Week1)\arrayStuff\obj\Debug\net6.0\ref\arrayStuff.dll
+C:\Revature\Rexjames23-code\VB.net-code(Week1)\arrayStuff\obj\Debug\net6.0\arrayStuff.pdb
+C:\Revature\Rexjames23-code\VB.net-code(Week1)\arrayStuff\obj\Debug\net6.0\arrayStuff.genruntimeconfig.cache

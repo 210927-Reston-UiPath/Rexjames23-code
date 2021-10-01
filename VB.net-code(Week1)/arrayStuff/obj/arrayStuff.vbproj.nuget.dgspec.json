@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Revature\\Rexjames23-code\\VB.net-code(Week1)\\PhonebookApp\\PhoneBookApp.vbproj": {}
+    "C:\\Revature\\Rexjames23-code\\VB.net-code(Week1)\\arrayStuff\\arrayStuff.vbproj": {}
   },
   "projects": {
-    "C:\\Revature\\Rexjames23-code\\VB.net-code(Week1)\\PhonebookApp\\PhoneBookApp.vbproj": {
+    "C:\\Revature\\Rexjames23-code\\VB.net-code(Week1)\\arrayStuff\\arrayStuff.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Revature\\Rexjames23-code\\VB.net-code(Week1)\\PhonebookApp\\PhoneBookApp.vbproj",
-        "projectName": "PhoneBookApp",
-        "projectPath": "C:\\Revature\\Rexjames23-code\\VB.net-code(Week1)\\PhonebookApp\\PhoneBookApp.vbproj",
+        "projectUniqueName": "C:\\Revature\\Rexjames23-code\\VB.net-code(Week1)\\arrayStuff\\arrayStuff.vbproj",
+        "projectName": "arrayStuff",
+        "projectPath": "C:\\Revature\\Rexjames23-code\\VB.net-code(Week1)\\arrayStuff\\arrayStuff.vbproj",
         "packagesPath": "C:\\Users\\Rexja\\.nuget\\packages\\",
-        "outputPath": "C:\\Revature\\Rexjames23-code\\VB.net-code(Week1)\\PhonebookApp\\obj\\",
+        "outputPath": "C:\\Revature\\Rexjames23-code\\VB.net-code(Week1)\\arrayStuff\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rexja\\AppData\\Roaming\\NuGet\\NuGet.Config",
